@@ -1,0 +1,27 @@
+name: Uninstall.io
+description: Dev diary of uninstall.io
+meta_description: "Reduce your app uninstalls with the most accurate app uninstall analytics solution available for both Android and iOS apps. Best Part It works even without integrating our SDK."
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'https://dev.uninstall.io'
+google_analytics: 'UA-76883960-1'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'https://dev.uninstall.io'
+author:         'Uninstall.io team'
+
+authors:
+  vnodecg:
+    name: Vinod CG
+    display_name: Vinod CG
+    email: vnode@uninstall.io
+    web: http://vnodecg.me
+    twitter: vnodecg
+    github: vnodecg
+    gravatar: c58fa87d81f9d782c5bae3ed3c3073bb
+    bio: Frontend developer
