@@ -11,9 +11,10 @@ By default [Angular JS](http://angularjs.org) will route using a '#'.
 Your URL will look like `http://example.com/#/test`.
 
 We need to do three things in order to remove the '#' from the URL.
-  * 1. Configuring `$locationProvider`.
-  * 2. Setting up base reference for relative links
-  * 3. Redirecting routes to `index.html`.
+
+ 1. Configuring `$locationProvider`.
+ 2. Setting up base reference for relative links
+ 3. Redirecting routes to `index.html`.
 
 
 ### 1. Configuring `$locationProvider`
