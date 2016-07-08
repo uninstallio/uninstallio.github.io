@@ -9,7 +9,7 @@ author: ripusingla
 
 ### Some Background
 
-Uninstall.io was part of Winter 2014 batch of Microsoft Accelerator program. After completion of the program in Feb 2015, we received bunch of
+Uninstall.io was part of Summer 2015 batch of Microsoft Accelerator program. After completion of the program in Jun 2015, we received bunch of
 Azure credits to try out Azure Cloud ecosystem. Earlier all our machines were hosted on Amazon EC2. 
 With free credits at our disposal, we started migrating our less critical machines to Azure to save on costs. As of today we are fully hosted
 on Azure Cloud.
