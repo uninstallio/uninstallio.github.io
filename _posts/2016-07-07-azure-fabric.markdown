@@ -6,6 +6,7 @@ categories: azure fabric
 author: ripusingla
 ---
 
+
 ### Some Background
 
 Uninstall.io was part of Winter 2014 batch of Microsoft Accelerator program. After completion of the program in Feb 2015, we received bunch of

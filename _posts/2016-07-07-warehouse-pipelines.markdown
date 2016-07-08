@@ -6,6 +6,7 @@ categories: azuresqlwarehouse luigi
 author: ripusingla
 ---
 
+
 ### Some Background
 
 In early days of Uninstall.io, we were using MongoDB as our primary data store along with Redis (to power our dashboard) and 
