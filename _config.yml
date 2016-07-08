@@ -3,7 +3,7 @@ description: Engineering diary of uninstall.io
 meta_description: "Reduce your app uninstalls with the most accurate app uninstall analytics solution available for both Android and iOS apps. Best Part It works even without integrating our SDK."
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
