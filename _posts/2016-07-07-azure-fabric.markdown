@@ -9,15 +9,11 @@ author: ripusingla
 
 ### Some Background
 
-Uninstall.io was part of Summer 2015 batch of Microsoft Accelerator program. After completion of the program in Jun 2015, we received bunch of
-Azure credits to try out Azure Cloud ecosystem. Earlier all our machines were hosted on Amazon EC2. 
-With free credits at our disposal, we started migrating our less critical machines to Azure to save on costs. As of today we are fully hosted
-on Azure Cloud.
+Uninstall.io was part of Sixth (2015 Feb-June) batch of Microsoft Accelerator program. One of the excellent benefits was lots of
+Azure cloud credits to try out the Azure ecosystem. Earlier, all our machines were hosted on Amazon EC2. 
+We started migrating our less critical machines to Azure. As of today we are fully hosted on the Azure Cloud.
 
-
-To start with, Azure portal was good enough for a single machine deployment and network configuration etc. But soon it became too time consuming to 
-manage more machines. Azure templates were too cumbersome and repetitive for our taste. So we decided to build an inhouse `python-fabric & azure-cli` combo - a
-suit of scripts to automate the most common tasks.
+To start with, the Azure portal was good enough for a deploying few machines and do the network configuration etc. Soon, it became too time consuming when our machine count was more than 10. We found Azure templates too cumbersome and repetitive for our tastes. So we decided to build an inhouse `python-fabric & azure-cli` combo - a suit of scripts to automate our most common tasks.
 
 
 ### Code
